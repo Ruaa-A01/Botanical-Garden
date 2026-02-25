@@ -8,6 +8,7 @@ This project blends storytelling with structured layout design to create a welco
 
 <p align="center"><img src="screenshots/BotanicalGarden.gif" width="800"/></p>
 
+---
 
 ## Features
 
@@ -20,6 +21,7 @@ This project blends storytelling with structured layout design to create a welco
 - Cohesive Branding & Storytelling Integration
 - Custom Styling Via External CSS
 
+---
 
 ## Technologies Used
 
@@ -28,6 +30,7 @@ This project blends storytelling with structured layout design to create a welco
 - Form Elements & UI Structuring
 - Responsive Layout Principles
 
+---
 
 ## Project Structure
 
@@ -52,6 +55,7 @@ Botanical-Garden/
         └── BotanicalGarden.gif  # Demo GIF Showing Site Flow
 ```
 
+---
 
 ## Website Screenshots
 
@@ -76,6 +80,7 @@ Botanical-Garden/
 ### Calendar
 <img src="screenshots/calendar.png" width="1000" height="600" />
 
+---
 
 ## Purpose Of The Project
 
@@ -83,6 +88,7 @@ This project was developed to strengthen my understanding of semantic HTML archi
 
 Beyond technical structure, the project also explores cohesive brand storytelling — ensuring that the layout, typography and content work together to create a consistent and immersive user experience.
 
+---
 
 ## Future Improvements
 
@@ -93,6 +99,7 @@ Beyond technical structure, the project also explores cohesive brand storytellin
 - Add Animations For Smoother UX
 - Convert To A Full-Stack Application With Backend Integration
 
+---
 
 ## How To Run Locally
 
@@ -100,6 +107,7 @@ Beyond technical structure, the project also explores cohesive brand storytellin
 2. Open The Project Folder
 3. Launch `index.html` In Your Browser
 
+---
 
 ### Author
 
