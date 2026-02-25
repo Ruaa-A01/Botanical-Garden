@@ -29,31 +29,7 @@ This project blends storytelling with structured layout design to create a welco
 - Responsive Layout Principles
 
 
-## Project Structure (visual)
-
-```mermaid
-flowchart TB
-    root["Botanical-Garden/"]
-    root --> index["index.html\nMain Homepage"]
-    root --> events["events.html\nEvents Page"]
-    root --> style["style.css\nSite Styles"]
-    root --> readme["README.md\nProject Documentation & Showcase"]
-    root --> images["images/\nImage assets"]
-    images --> img1["brown-flower2.avif"]
-    images --> img2["canna-glauca.jpg"]
-    images --> img3["curcuma-longa.jpg"]
-    images --> more["... other plant images"]
-    root --> shots["screenshots/\nPreview visuals"]
-    shots --> s1["homepage.png"]
-    shots --> s2["about-section.png"]
-    shots --> s3["plants-grid.png"]
-    shots --> s4["pricing-section.png"]
-    shots --> s5["upcoming-events.png"]
-    shots --> s6["calendar.png"]
-    shots --> s7["BotanicalGarden.gif\nDemo GIF"]
-```
-
-Fallback (plain text)
+## Project Structure
 
 ```text
 Botanical-Garden/
