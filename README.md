@@ -1,4 +1,4 @@
-# Botanical Garden
+# Botanical Garden ♥︎
 
 A responsive, multi-section botanical garden website designed to showcase plant collections, events, and membership options in a warm, community-focused environment.
 
