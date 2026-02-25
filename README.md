@@ -56,25 +56,25 @@ Botanical-Garden/
 ## Website Screenshots
 
 ### Home Section
-<img src="screenshots/homepage.png" width="800" height="400" />
+<img src="screenshots/homepage.png" width="1000" height="600" />
 
 ### About Section
-<img src="screenshots/about-section.png" width="800" height="400" />
+<img src="screenshots/about-section.png" width="1000" height="600" />
 
 ### Plant Collection Grid
-<img src="screenshots/plants-grid.png" width="800" height="400" />
+<img src="screenshots/plants-grid.png" width="1000" height="600" />
 
 ### Pricing & Membership
-<img src="screenshots/pricing-section.png" width="800" height="400" />
+<img src="screenshots/pricing-section.png" width="1000" height="600" />
 
 ### Events & Contact Us Section
-<img src="screenshots/events-contact.png" width="800" height="400" />
+<img src="screenshots/events-contact.png" width="1000" height="600" />
 
 ### Upcoming Events
-<img src="screenshots/upcoming-events.png" width="800" height="400" />
+<img src="screenshots/upcoming-events.png" width="1000" height="600" />
 
 ### Calendar
-<img src="screenshots/calendar.png" width="800" height="400" />
+<img src="screenshots/calendar.png" width="1000" height="600" />
 
 
 ## Purpose Of The Project
