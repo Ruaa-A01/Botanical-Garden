@@ -32,20 +32,23 @@ This project blends storytelling with structured layout design to create a welco
 ## Project Structure
 
 Botanical-Garden/
-│
-├── index.html
-├── events.html
-├── style.css
-├── README.md
-├── images/
-└── screenshots/
+├── index.html               # Main Homepage
+├── events.html              # Events Page
+├── style.css                # Styles For The Site
+├── README.md                # Project Documentation & Showcase
+├── images/                  # Images Used For The Website
+│   ├── brown-flower2.avif
+│   ├── canna-glauca.jpg
+│   ├── curcuma-longa.jpg
+│   └── ...                  # Other Plant Images
+└── screenshots/             # Visuals For README Preview
     ├── homepage.png
     ├── about-section.png
     ├── plants-grid.png
     ├── pricing-section.png
     ├── upcoming-events.png
     ├── calendar.png
-    ├── BotanicalGarden.gif
+    └── BotanicalGarden.gif  # Demo GIF Showing Site Flow
 
 
 ## Website Screenshots
